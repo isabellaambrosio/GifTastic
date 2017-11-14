@@ -1,0 +1,57 @@
+body {
+    padding-top: 20px;
+}
+
+/*Add button*/
+
+#add-singer {
+    margin-top: 5px;
+    border: 3px solid white;
+    background-color: darkgrey;
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 12px;
+}
+
+#add-singer:hover {
+    background-color: lightgrey;
+    color: white;
+}
+
+/*Singer's Buttons*/
+
+.buttonClass {
+    margin-top: 5px;
+    border: 3px solid white;
+    background-color: #555555;
+    color: white;
+    padding: 10px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+
+}
+
+.buttonClass:hover {
+    background-color: grey;
+    color: white;
+}
+
+
+
+/*Singer name*/
+
+label {
+    font-size: 16px;
+}
+
+input[type=text] {
+    border-radius: 8px;
+
+}
